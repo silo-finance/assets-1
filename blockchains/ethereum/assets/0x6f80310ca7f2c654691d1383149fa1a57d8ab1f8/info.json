@@ -1,0 +1,11 @@
+{
+  "name": "Silo Governance Token",
+    "website": "https://www.silo.finance",
+    "description": "SILO is the governance token of Silo Finance.",
+    "explorer": "https://etherscan.io/token/0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8",
+    "type": "ERC20",
+    "symbol": "SILO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6f80310CA7F2C654691D1383149Fa1A57d8AB1f8"
+}
